@@ -3,3 +3,6 @@ Predicts the price of the house based on multiple factors (multiple predictor / 
 
 # Note
 Loads the default housing dataset provided by the sklearn
+
+# Reference 
+http://scikit-learn.org/stable/datasets/index.html -> SKlearn default DataSets
